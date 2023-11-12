@@ -2,6 +2,9 @@
  * server program. Once the server has been compiled and started, clients
  * anywhere on the Internet can send commands (file names) to the server.
  * The server responds by opening and returning the entire file requested.
+ *
+ * Code is from Fig. 6-6 of Tanenbaum, Computer Networks, 6th Edition.
+ * Copyright 2021 Pearson Education, Inc.
  */
 
 #include <stdio.h>
