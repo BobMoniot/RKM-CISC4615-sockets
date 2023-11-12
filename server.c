@@ -1,3 +1,11 @@
+/* Server program.
+ * Code is from Fig. 6-6 of Tanenbaum, Computer Networks, 6th Edition.
+ * Copyright 2021 Pearson Education, Inc.
+ *
+ * WARNING: this program is for demonstration purposes only.  It includes no
+ * security provisions and should not be run on a host connected to the Internet.
+ */
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
